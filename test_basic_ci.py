@@ -4,7 +4,7 @@
 # "연습용 테스트"입니다.
 # --------------------------------------------
 
-# 수정수정
+# 수정수정수정수정
 
 def test_ci_is_working():
     """
@@ -15,8 +15,8 @@ def test_ci_is_working():
     """
     assert 1 + 1 == 2
 
-def test_ci_should_fail():
-    assert 1 + 1 == 3
+# def test_ci_should_fail():
+#     assert 1 + 1 == 3
 
 # ㄴㄴ 녹방 ㄴㄴㄴㄴㄴㄴㄴㄴㄴ 질문 opr 도움 요청
 # 인강 vs 현재강의 diff
